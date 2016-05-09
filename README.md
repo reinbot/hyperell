@@ -7,7 +7,7 @@ The folder  [ /main_examples](./main_examples) contains the 7 curves we discusse
 
 For each curve we provide 
 
-1. an uncompressed text file readable by any computer or browser
+1. an uncompressed .sage file readable by any computer or browser
  
 2. a compressed .sobj file, to be opened in Sage
 

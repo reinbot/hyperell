@@ -1,5 +1,3 @@
-[this is not ready yet]
-
 ## The functional equation for $L$-functions of hyperelliptic curves
 ### Data of the examples for our paper (arXiv:1504.00508), to appear
 
@@ -38,6 +36,27 @@ sage: # OR
 sage: c=load('c7_227_1227_1609.sage')
 sage: c[0]
 5
+sage: c[1]
+x^11 + 3*x^4 + 2*x^3 - 3*x^2 - 2*x
 sage: c[2]
--3*x^3 + x^2 + 3*x + 1 
+-3*x^3 + x^2 + 3*x + 1
+sage: c[3]
+3264907177
+sage: c[3].factor()
+7 * 227 * 1277 * 1609
+sage: c[4]
+[7, 227, 1227, 1609]
+sage: c[5]
+[-2401*x^9 + 2401*x^8 + 588*x^7 - 588*x^6 - 134*x^5 + 134*x^4 + 12*x^3 - 12*x^2 - x + 1,
+ 200*x^3 + 213*x^2 + 14*x + 1,
+ -35*x^2 - 34*x + 1,
+ -26*x^2 - 25*x + 1]
+sage: c[5][3]
+-26*x^2 - 25*x + 1
+sage: c[6]
+1112661
+sage: c[7]
+1
+sage: c[8][0:10]
+[1, -1, 0, 1, 2, 0, 1, 1, -2, -2]
 ```

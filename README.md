@@ -32,16 +32,10 @@ The file is a Sage dictionary, with the following keys:
 ######suggested use:
 ```python
 sage: c=load('c7_227_1227_1609.sobj')
-
 OR
-
 sage: c=load('c7_227_1227_1609.sage')
-
 sage: c[0]
-
 5
-
 sage: c[2]
-
 -3*x^3 + x^2 + 3*x + 1 
 ```

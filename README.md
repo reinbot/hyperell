@@ -15,7 +15,7 @@ For each curve we provide
 
 The files are named as follows.
 
-c<genus>_<badprime>_<...>_<badprime>.sage
+c<genus>__<badprime>__<...>__<badprime>.sage
 
 
 

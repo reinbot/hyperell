@@ -31,7 +31,7 @@ The folder [ /further_examples](./further_examples) contains another 14 curves w
 
 Each of the files has the following structure.
 
-The file is a Sage dictionary, with the following keys:
+The file is a Sage dictionary with the following keys:
 ```
 0: genus, 1: g(x), 2: h(x), 3: conductor, 4: bad primes, 
 5: bad factors, 6: bound M, 7: root number or sign, 8: L-series up to M

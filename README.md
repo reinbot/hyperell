@@ -3,7 +3,7 @@
 
 #### Structure of the file set
 
-The folder  [ /main_examples](./main_examples) contains the 7 curves we discussed in our paper. 
+The folder  [ /main_examples](./main_examples) contains the 8 curves we discussed in our paper. 
 
 For each curve we provide 
 

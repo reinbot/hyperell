@@ -1,4 +1,4 @@
-## The functional equation for \(L\)-functions of hyperelliptic curves
+## The functional equation for $L$-functions of hyperelliptic curves
 ### Data of the examples for our paper (arXiv:1504.00508), to appear
 
 #### Structure of the file set
@@ -19,7 +19,7 @@ e.g.
 ```
 c9_343_31_53.sage
 ```
-where \(N=3^2\cdot 7^4\cdot 31\cdot 53\).
+where $N=3^2\cdot 7^4\cdot 31\cdot 53$.
 
 
 

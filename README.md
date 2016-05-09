@@ -1,7 +1,7 @@
 [this is not ready yet]
 
-# The functional equation for $L$-functions of hyperelliptic curves
-## Data of the examples for our paper (arXiv:1504.00508), to appear
+## The functional equation for $L$-functions of hyperelliptic curves
+### Data of the examples for our paper (arXiv:1504.00508), to appear
 
 #### Structure of the file set
 

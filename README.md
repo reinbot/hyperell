@@ -11,10 +11,16 @@ For each curve we provide
  
 2. a compressed .sobj file, to be opened in Sage
 
-The files are named as follows.
+The files are named after the prime decomposition of the conductor $N$:
 ```
-c<genus>_<bad_prime_power>_<...>_<bad_prime_power>.sage
+c<bad_prime_power>_<...>_<bad_prime_power>.sage
 ```
+e.g.
+```
+c9_343_31_53
+```
+where $N=3^2\cdot 7^4\cdot 31\cdot 53$.
+
 
 
 #### How to use the files

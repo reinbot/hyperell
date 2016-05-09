@@ -8,7 +8,9 @@
 The folder 'main examples' contains the 7 curves we discussed in our paper. 
 
 For each curve we provide 
+
 1. an uncompressed text file readable by any computer or browser
+2. 
 2. a compressed .sobj file, to be opened in Sage
 
 The files are named as follows.

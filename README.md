@@ -24,7 +24,7 @@ where
 N = 3^2 * 7^4 * 31 * 53.
 ```
 
-The folder [ /further_examples](./further_examples) contains the 7 curves we discussed in our paper. 
+The folder [ /further_examples](./further_examples) contains another 14 curves with further interesting examples not discussed in the paper.
 
 
 #### How to use the files

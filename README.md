@@ -19,8 +19,10 @@ e.g.
 ```
 c9_343_31_53.sage
 ```
-where $N=3^2\cdot 7^4\cdot 31\cdot 53$.
-
+where 
+```
+N = 3^2 * 7^4 * 31 * 53.
+```
 
 
 #### How to use the files

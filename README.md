@@ -26,7 +26,7 @@ Each of the files has the following structure.
 The file is a Sage dictionary, with the following keys:
 ```
 0: genus, 1: g(x), 2: h(x), 3: conductor, 4: bad primes, 
-5:bad factors, 6: bound M, 7: root number or sign, 8: L-series up to M
+5: bad factors, 6: bound M, 7: root number or sign, 8: L-series up to M
 ```
 
 

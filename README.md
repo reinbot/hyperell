@@ -14,7 +14,7 @@ For each curve we provide
 2. a compressed .sobj file, to be opened in Sage
 
 The files are named as follows.
-'''sage
+''' 
 c<genus>\_<badprime>\_<...>\_<badprime>.sage
 '''
 
@@ -30,7 +30,7 @@ The file is a Sage dictionary, with the following keys:
 
 
 ######suggested use:
-'''sage
+'''python
 sage: c=load('c7_227_1227_1609.sobj')
 
 OR

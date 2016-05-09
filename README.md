@@ -1,8 +1,12 @@
-# hyperell
-###Data of the examples for our paper on arXiv
+# The functional equation for $L$-functions of
+hyperelliptic curves
+###Data of the examples for our paper (arXiv:1504.00508), to appear in ...
+
+#### Structure of the file set
 
 
-##### How to use the files
+
+#### How to use the files
 
 0: genus, 1: g(x), 2: h(x), 3: conductor, 4: bad primes, 5:bad factors, 6: bound M, 7: root number or sign, 8: L-series up to M
 

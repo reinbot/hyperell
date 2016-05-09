@@ -17,7 +17,7 @@ c<bad_prime_power>_<...>_<bad_prime_power>.sage
 ```
 e.g.
 ```
-c9_343_31_53
+c9_343_31_53.sage
 ```
 where $N=3^2\cdot 7^4\cdot 31\cdot 53$.
 

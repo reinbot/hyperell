@@ -3,7 +3,7 @@
 
 #### Structure of the file set
 
-The folder 'main examples' contains the 7 curves we discussed in our paper. 
+The folder  [ /main_examples](./main_examples) contains the 7 curves we discussed in our paper. 
 
 For each curve we provide 
 
@@ -23,6 +23,8 @@ where
 ```
 N = 3^2 * 7^4 * 31 * 53.
 ```
+
+The folder [ /further_examples](./further_examples) contains the 7 curves we discussed in our paper. 
 
 
 #### How to use the files

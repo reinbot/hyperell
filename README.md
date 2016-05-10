@@ -7,7 +7,7 @@ The folder  [ /main_examples](./main_examples) contains the 8 curves we discusse
 
 For each curve we provide 
 
-1. an uncompressed .sage file readable by any computer or browser
+1. an uncompressed .sage text file readable by any computer or browser
  
 2. a compressed .sobj file, to be opened in Sage
 
@@ -17,11 +17,11 @@ c<bad_prime_power>_<...>_<bad_prime_power>.sage
 ```
 e.g.
 ```
-c9_343_31_53.sage
+c4_27_121_37.sage
 ```
 where 
 ```
-N = 3^2 * 7^4 * 31 * 53.
+N = 2^2 * 3^3 * 11^2 * 37.
 ```
 
 The folder [ /further_examples](./further_examples) contains another 14 curves with further interesting examples not discussed in the paper.

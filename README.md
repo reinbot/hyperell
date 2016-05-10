@@ -42,8 +42,7 @@ The file is a Sage dictionary with the following keys:
 ######Suggested use:
 ```python
 sage: c=load('c7_227_1227_1609.sobj')
-sage: # OR
-sage: c=load('c7_227_1227_1609.sage')
+sage: # OR c=load('c7_227_1227_1609.sage')
 sage: c[0]
 5
 sage: c[1]

@@ -66,10 +66,10 @@ sage: c[6]
 sage: c[7]
 1
 sage: c[8][0:40]
-[1, 1, -1, 0, 4, -1 -4, -2, 2, 4,
-2, 0, -8, -4, -4, -1, 6, 2, 6, 0,
-4, 2, -2, 2, 5, -8, -2, 0, 6, -4,
-0, 3, -2, 6,-16, 0, -3, 6, 8, -8]
+[1,  1, -1,  0,  4, -1, -4, -2,  2,  4,
+ 2,  0, -8, -4, -4, -1,  6,  2,  6,  0,
+ 4,  2, -2,  2,  5, -8, -2,  0,  6, -4,
+ 0,  3, -2,  6,-16,  0, -3,  6,  8, -8]
 ```
 If you are familiar with the construction of $L$-series, note the second, third, 11th, and 37th term. They are the negatives of the linear terms in the corresponding bad factors.
 

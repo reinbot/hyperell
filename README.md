@@ -65,8 +65,10 @@ sage: c[6]
 15133
 sage: c[7]
 1
-sage: c[8][0:30]
-[1, 1, -1, 0, 4, -1 -4, -2, *2*, 4, 2, 0, -8, -4, -4, -1, 6, 2, 6, 0, 4, 2, -2, 2, 5, -8, -2, 0, 6, -4]
+sage: c[8][0:40]
+[1, 1, -1, 0, 4, -1 -4, -2, 2, 4, 2, 0, -8, -4, -4, -1, 6, 2, 6, 0, 4, 2, -2, 2, 5, -8, -2, 
+0, 6, -4, 0, 3, -2, 6, -16, 0, -3, 6, 8, -8]
 ```
+If you are familiar with the construction of $L$-series, note the second, third, eleventh, and 37th term. They come from the bad factors.
 
 

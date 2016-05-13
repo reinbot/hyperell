@@ -73,4 +73,13 @@ sage: c[8][0:40]
 ```
 If you are familiar with the construction of $L$-series, note the second, third, 11th, and 37th term. They are the negatives of the linear terms in the corresponding bad factors.
 
+You can also check the conjectured functional equation in Sage:
+```python
+sage: # continuation of the session above
+sage: L = Dokchitser(conductor = c[3] , gammaV = [0,0,0,1,1,1] , weight = 2 , eps = c[7])
+sage: L.init_coeffs(c[8])
+sage: L.check_functional_equation()
+-5.20417042793042e-17
+```
+
 
